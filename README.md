@@ -1,2 +1,3 @@
 # Vaccine-Lynch-GDS-
-game hai
+Game-Development-Society, IIT Kanpur
+
